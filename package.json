@@ -1,0 +1,24 @@
+{
+  "name": "indonesian-rupiah",
+  "version": "1.0.0",
+  "description": "convert nominal to indonesian rupiah",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darwins-fox-2017/npm-package.git"
+  },
+  "keywords": [
+    "number",
+    "currency",
+    "rupiah"
+  ],
+  "author": "Danang Aji Tamtomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darwins-fox-2017/npm-package/issues"
+  },
+  "homepage": "https://github.com/darwins-fox-2017/npm-package#readme"
+}
